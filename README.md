@@ -1,9 +1,10 @@
 # AI_final_fruit_linebot
-這個是AI人工智慧導論的期末專案
-本專案的圖片皆是從google上面抓下來的，只為呈現本專案而使用，完全沒有營利!!!
 
-主要功能有:
+This is an final project in the course "Introduce to Artificial Intelligence". All images used in this project are obtained from Google for the purpose of presenting this project and there is no profit involved.
 
-1. 爬蟲查詢即時的水果市價
-2. 依據使用者需求進行水果推薦
-3. 上傳照片辨識香蕉成熟度
+The main functions include:
+
+1. Web crawling to query real-time fruit market prices
+2. Recommend fruits based on user needs
+3. Upload photos to identify banana ripeness.
+ 
